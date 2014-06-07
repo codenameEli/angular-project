@@ -1,0 +1,11 @@
+{
+    "name": "general-project",
+    "version": "1.0.0",
+    "description": "General Project",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-sass": "~0.5.0",
+        "grunt-contrib-watch": "~0.4.4",
+        "grunt-contrib-uglify": "~0.2.4"
+    }
+}
